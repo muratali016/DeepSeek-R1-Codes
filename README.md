@@ -1,3 +1,6 @@
+# My Deepseek Work
+# DeepSeek-R1 local image upload
+
 # DeepSeek-R1-Girlfriend
 This project integrates the locally installed **Deepseek-R1 (1.5B)** model with the **D-ID API** to create an interactive AI girlfriend chatbot named Vanessa. The chatbot generates responses and converts them into a talking avatar using **D-ID's API**.
 
