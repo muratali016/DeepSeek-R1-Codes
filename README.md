@@ -1,4 +1,4 @@
-# My Deepseek Work
+# Udemy Deepseek Work
 # DeepSeek-R1 local image upload
 
 # DeepSeek-R1-Girlfriend
